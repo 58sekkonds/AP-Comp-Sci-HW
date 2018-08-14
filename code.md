@@ -7,4 +7,5 @@ for a in range(2,int(r)+1):
           k=k+1
     if(k<=0):
         print(a)
+print(r)
 
